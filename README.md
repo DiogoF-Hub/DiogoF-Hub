@@ -38,6 +38,9 @@ Chromium extension (MV3) that grades any site's HTTP security headers from A+ to
 ### [Phishly](https://github.com/Ev0rain/Phishly) *(team project)*
 Phishing simulation platform for security awareness training. Microservices architecture with Flask, Celery, PostgreSQL, and Redis, behind a Caddy reverse proxy. Supports campaign management, email tracking (open/click/form submission), customizable landing pages, and GDPR-compliant target deletion. Docker and rootless Podman support. Built with a team of 5 at Lycée Guillaume Kroll.
 
+### [Tailscale VPN On-Demand](https://github.com/DiogoF-Hub/Tailscale-vpn-on-demand)
+Cross-platform automation (Linux + Windows) that connects Tailscale on untrusted networks and disconnects it on trusted home Wi-Fi. Transition-based logic, so manual overrides aren't immediately reverted. Uses NetworkManager dispatcher on Linux and Task Scheduler on Windows.
+
 ### [CyberCrypt](https://github.com/DiogoF-Hub/CyberCrypt)
 AES-256 + RSA file encryption tool with a Streamlit interface. Supports PBKDF2 and Argon2id key derivation. Built for the 2024–2025 BTS Talent Exhibition.
 
@@ -45,8 +48,8 @@ AES-256 + RSA file encryption tool with a Streamlit interface. Supports PBKDF2 a
 
 ## 🏆 Highlights
 
-- 🥇 **LuxSkills 2026** — 1st place, Cybersecurity
-- 🥇 **YEP! Schoulfoire 2025** — Winner, Cybersecurity
+- 🥇 **LuxSkills 2026** — 1st place, Cybersecurity *(with [@o-mni](https://github.com/o-mni))*
+- 🥇 **YEP! Schoulfoire 2025** — 1st place, Cybersecurity *(with [@o-mni](https://github.com/o-mni))*
 
 ---
 
